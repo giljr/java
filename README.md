@@ -34,7 +34,6 @@ These are the [Levy, Steven(2010)](https://www.amazon.com/Hackers-Computer-Revol
 * You can *create art and beauty* on a computer;
 * Computer can *change your life for the better*.
 
->[Google Drive](https://drive.google.com/open?id=0B8iMbc-iQqlULW1HZXFiNnBEZUE) This gives you access to all the project's files. Please, search by # for artifacts, such as Code, Fritzing, Proteus, Schemas and more \o/
 
 ### Projects Java Series List (from 2021 until now) :ant:
 
