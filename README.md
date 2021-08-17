@@ -37,7 +37,8 @@ These are the [Levy, Steven(2010)](https://www.amazon.com/Hackers-Computer-Revol
 
 ### Projects Java Series List (from 2021 until now) :ant:
 
- [#01](_01_fileName/) #javaProject- [**Title**]() — *summary*
+ [#01](_01_tic_tac_toe_v1_0/) #javaProject- [**TIC TAC TOE VERSION 1.0**]() — *Simple Game - Human Player - Uninter Project - Aug2021 -*
+ [#02](_02_tic_tac_toe_v1_1/) #javaProject- [**TIC TAC TOE VERSION 1.1**]() — *Game Adding Machine versus Human functionalities - Levels: newbie/ Intermediate / Advanced*
    
 
 ### License
